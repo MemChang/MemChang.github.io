@@ -926,8 +926,8 @@ h3,h4,h5 {
 .bold { font-weight: 700 }
 
 #section0 {
-  background-color:#000000; background-repeat: repeat-x; background-position: center center;
-  color: #FFF;
+  background-color:#FFF; background-repeat: repeat-x; background-position: center center;
+  color: #000000;
 }
 
 
