@@ -939,6 +939,7 @@ h3,h4,h5 {
   -ms-animation: bg-change 3s infinite;
   animation: bg-change 3s infinite;
 }
+
 #section2{
   background-image: url('image/memchang_background.jpg');
 }
